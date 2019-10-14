@@ -1,76 +1,51 @@
-# Contributor Covenant Code of Conduct
+# CODE OF CONDUCT FOR PINDROP OPEN SOURCE PROJECTS
 
-## Our Pledge
+We place tremendous value in and take pride in fostering an open, welcoming and harassment-free environment for everyone who wishes to participate in our projects and our open source community, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+This Code of Conduct is published to ensure transparency with you about what is or is not acceptable behavior for those participating in our projects or open source community.
 
-## Our Standards
+## ACT WITH INTEGRITY
 
-Examples of behavior that contributes to creating a positive environment
-include:
+We take the integrity of our community very seriously. Any attempt to manipulate ourommunity content or features, including by contributing false, misleading, or inauthentic content, or using a false e-mail address, impersonating any person or entity, is strictly prohibited.
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+## RESPECT OTHERS
+
+We value diverse opinions.  To maintain a welcoming environment for all users, your participation in our community must always be respectful of others and behave in a manner that contributes to and maintains a positive environment.  
+
+Examples of acceptable behavior by participants include:
+
+- Use welcoming and inclusive language.  
+- Be respectful of differing viewpoints and experiences.
+- Gracefully accept constructive criticism.
+- Focus on what is best for the community.
+- Show empathy towards other community members.
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- Posting content that is libelous, defamatory, harassing, threatening, or inflammatory.
+- Using obscenities or profanity or expressing hatred or intolerance for people on the basis of race, ethnicity, nationality, gender or gender identity, religion, sexual orientation, age, or disability, including by promoting organizations with such views.
+- Attempting to drown out other people’s opinions, including by posting from multiple accounts or coordinating with others.
+- Engaging in name-calling or attack people based on whether you agree with them.
+- Impersonating other people or organizations or pretend to be someone or something you’re not.
 
-## Our Responsibilities
+## ILLEGAL OR UNAUTHORIZED ACTIVITY
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Don’t post content that encourages or supports behavior that is illegal or it itself illegal or unauthorized. Examples of prohibited content include:
+Content advocating or threatening physical or financial harm to others.
+Disclosure of information of a third party (whether personally identifiable information or not) that may be in violation of any applicable laws or any privacy policies or terms and conditions with that third party (i.e., that may permit the use and sharing of that information in this type of forum).
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+>**Important Tip:** It is your responsibility to ensure that what you say and what you share is permitted under your company’s own security, confidentiality, compliance and other similar policies.
 
-## Scope
+## INFRINGING CONTENT
 
-This Code of Conduct applies within all project spaces, and it also applies when
-an individual is representing the project or its community in public spaces.
-Examples of representing a project or community include using an official
-project e-mail address, posting via an official social media account, or acting
-as an appointed representative at an online or offline event. Representation of
-a project may be further defined and clarified by project maintainers.
+Don’t post content or interact with other participants in our community in a way that infringes the intellectual property or other proprietary rights of others. Only post your own content or content that you have permission to use or freely share with others.
 
-## Enforcement
+## ENFORCEMENT
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at opensource@pindrop.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Pindrop reserves the right to remove, edit, or reject comments, commits, code, public postings, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.  Misconduct may also violate state and federal laws, and can lead to legal action and civil and criminal penalties.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+We encourage anyone who suspects that our Code of Conduct is being violated in any way to notify us by emailing us at [INSERT EMAIL ADDRESS]. We will investigate the concern thoroughly and take any appropriate actions.
 
-## Attribution
+---
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+Last updated October 2019
