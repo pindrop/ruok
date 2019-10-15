@@ -2,10 +2,7 @@
 
 Want to pitch in? Nice! There are a few ways you can get involved, no matter your experience or skill level.
 
-By contributing to this project, you agree to the [Contributor Terms](contributor-terms) and to abide by the [Code of Conduct](code-of-conduct).
-
-[contributor-terms]: CONTRIBUTOR_TERMS.md "Contributor Terms"
-[code-of-conduct]: CODE_OF_CONDUCT.md "Code of Conduct"
+By contributing to this project, you agree to the [Contributor Terms][contributor-terms] and to abide by the [Code of Conduct][code-of-conduct].
 
 ## Ways to Contribute
 
@@ -37,3 +34,6 @@ If you have a change that you'd like to make, we're happy to review and accept p
     ```
 
 1. Open a Pull Request
+
+[contributor-terms]: CONTRIBUTOR_TERMS.md "Contributor Terms"
+[code-of-conduct]: CODE_OF_CONDUCT.md "Code of Conduct"
