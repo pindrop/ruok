@@ -1,3 +1,5 @@
+// Copyright 2019 Pindrop Security, Inc. Licensed under the MIT License.
+
 package main
 
 import (
