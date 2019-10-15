@@ -36,3 +36,7 @@ Our desire is to keep this service very simple, but there are some things we thi
 - **Additional endpoints**
   - **Status code** - for example, `GET /status/403` returns a `403`.
   - **Headers** - Respond with request headers.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md)
