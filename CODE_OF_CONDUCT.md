@@ -44,7 +44,7 @@ Don’t post content or interact with other participants in our community in a w
 
 Pindrop reserves the right to remove, edit, or reject comments, commits, code, public postings, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.  Misconduct may also violate state and federal laws, and can lead to legal action and civil and criminal penalties.
 
-We encourage anyone who suspects that our Code of Conduct is being violated in any way to notify us by emailing us at [INSERT EMAIL ADDRESS]. We will investigate the concern thoroughly and take any appropriate actions.
+We encourage anyone who suspects that our Code of Conduct is being violated in any way to notify us by emailing us at [opensource@pindrop.com](mailto:opensource@pindrop.com). We will investigate the concern thoroughly and take any appropriate actions.
 
 ---
 
